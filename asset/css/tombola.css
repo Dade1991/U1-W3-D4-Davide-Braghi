@@ -58,10 +58,11 @@ main {
 }
 
 #mainTable {
-  width: 100%;
+  width: 1fr;
   display: flex;
   flex-wrap: wrap;
-  background-color: ;
+
+  padding: 50px;
   /* margin-left: auto;
   margin-right: auto; */
 }
