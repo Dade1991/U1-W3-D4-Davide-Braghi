@@ -72,9 +72,6 @@ buttonGo.addEventListener(`click`, () => {
   // const test = numberBox.map((el) => el.innerText === numberChoosed.innerText)
   // console.log(test)
 
-  const test = numberBox.map()
-  console.log(test)
-
   // for (let i = 0; i < numberBox.length; i++) {
   //   const boxValue = numberBox[].innerText
   //   console.log(boxValue)
