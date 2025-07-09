@@ -65,7 +65,7 @@ buttonGo.addEventListener(`click`, () => {
   numberChoosed.classList.add(`numberPlayed`)
   const numberExtracted = document.getElementById(`playerResult`)
   numberExtracted.appendChild(numberChoosed)
-  console.log(numberChoosed.innerText)
+  // console.log(numberChoosed.innerText)
 
   const numberBox = document.getElementsByClassName(`numberPlayed`)
 
